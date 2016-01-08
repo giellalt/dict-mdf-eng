@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="utf-8"?>
+<r xml:lang="mdf">
+<e><lg><l pos="N" type="Prop">Абра</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Abraham</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Адам</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Adam</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Афет</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Japhet</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Афганистан</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Afghanistan (country)</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Африка</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Africa</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Агру</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Agrippina</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Агу</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Agatha</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Ахав</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Ahab </t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Ахия</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Ahijah</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Ала ош</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Nizhniy Novgorod</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Албания</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Albania (country)</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Алдакеясь</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">?</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Алду</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Audotia</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Алёш</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Alexius</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Америка</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">America</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Американь Аймакнень Соткссна</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">United States of America</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Амидав</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Abinadab (Bible name)</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Анамаз</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">God of Evil</t><t pos="N" type="Prop">Darkness and Cold</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Андю</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Andrew</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Анна</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Ann</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Антош</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Antonius</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Апостолхнень Тевсна</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Acts (Bible)</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Арабия</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Arabia</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Арьшу</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Arthem</t><t pos="N" type="Prop">Arthemius</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Артю</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Artemius</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Атлантикань океан</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Atlantic ocean</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Атямшкай</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Thunder God</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Австрия</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Austria (country)</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Австралия</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Australia</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Азербайджан</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Azerbaijan (country)</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Азия</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Asia</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Банява</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">bath house deity (Sauna Mother)</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Башкир мастор</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Bashkiria (country)</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Беларуз мастор</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Belarus (country)</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Бельгия</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Belgium (country)</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Бетлеем</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Bethlehem</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Библия</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Bible</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Босния ди Херцеговина</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Bosnia and Herzegovina (country)</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Бразилия</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Brasil (country)</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Бруслан</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Buguruslan (city)</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Чехмастор</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Czechia</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Челяба ош</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Chelyabinsk (city)</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Чукчимастор</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Chukchee</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Чувашмастор</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Chuvashia (country)</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Данмастор</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Denmark (country)</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Дома</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Domna</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Донеси</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Dionisius</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Арзамаз</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Arzamas</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Эрзянь мастор</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Erzya country</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Эрманирих</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Ermaniric (Ostrogothic king)</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Эсти мастор</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Estonia (country)</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Эвенк мастор</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Evenki land</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Эвен мастор</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Even land</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Езраель</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Israel (state)</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Фадей</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Thaddaeus</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Фана</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Athanasius</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Феда</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Theodosia</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Филе</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Philip</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Финес</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Phineas (Bible name)</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Финнмастор</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Finland (country)</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Фома</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Thomas</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Фека</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Thecla</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Фякола</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Thekla</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Германмастор</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Germany (country)</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Гине</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Eugene</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Гофолия</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Athalia</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Голандия</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Holland (country)</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Грекмастор</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Greece (country)</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Грузия</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Georgia (country)</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Хантмастор</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Khanty country</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Хорватия</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Croatia (country)</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Хрола</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Chlorus</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Идем Пакся</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Wild Fields</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Идемявозь</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">the Evil spirit</t><t pos="N" type="Prop">the Devil</t><t pos="N" type="Prop">vampire</t><t pos="N" type="Prop">werewolf</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Игна</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Ignatius</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Илий</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Eli</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Ильге</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Elijah</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Индиянь океан</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Indian ocean</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Ингуш мастор</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Ingushetia</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Ине</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Eugenia</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Ине Сара</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Insar river</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Иоас</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Jehoash</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Иодай</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Jehoiada</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Иона Шкаймаряйть Книгац</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Jonah (Bible)</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Ионафан</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Jonathan (Bible name)</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Ирак</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Iraq (country)</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Иран</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Iran (country)</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Исав</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Esau</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Исландия</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Iceland (country)</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Испания</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Spain (country)</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Исус</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Jesus</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Италия</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Italy (country)</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Ягор</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">George</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Яхим</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Joachim</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Яик</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Uralsk (city)</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Якшаматя</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">God of Cold</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Якшамава</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Godess of Cold</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Яку</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Jacob</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Якутия</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Yakutia (country)</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Якутмастор</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Yakut republic</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Йакувонь сёрмац</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">James (Bible)</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Япунмастор</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Japan</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Ярма</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Jeremiah</t><t pos="N" type="Prop">Hieronimus</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Ясаф</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Jehosaphat</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Явроп</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Europe</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Явсей</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Eusebius</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Ефима</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Euphim</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Египет</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Egypt (country)</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Ехрем</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Euphrem</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Елисей</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Elisha</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Ерихон</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Jericho (city)</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Еровоам</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Jeroboam</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Евга</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Eve</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Еврей мастор</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Israel (state)</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Европ(а)</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Europe</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Европань Соткс</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">European Union</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Ёмла Якстерь</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Young Communist Leager</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Йов</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Moksha river (old name)</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Юда</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Judas</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Юкагирмастор</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Yukagir land</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Юпитерь</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Jupiter (planet)</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Юрхтава</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">tribe godess</t><t pos="N" type="Prop">clan godess (Tribe Mother)</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Юван</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">John</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Кал Ава</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Great Fish the Progenitrix</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Калдазава</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">barn deity (Barn Mother)</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Калмазор</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">cemetery deity</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Калхт</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Pisces</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Канада</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Canada (country)</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Канай</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Earth God</t><t pos="N" type="Prop">Almighty</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Кандра</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Conrad</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Канор</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Nichanor</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Кардаз Сярхка</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">barn deity (Barn Mother)</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Кардазава</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">barn deity (Barn Mother)</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Карелия</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Karelia (country)</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Карга Мастор</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Mordvinia</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Каргонь Ки</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Milky Way</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Карпа</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Carpius</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Карьхкяпря тяште</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Ursa Major</t><t pos="N" type="Prop">the Great Bear</t><t pos="N" type="Prop">Big Dipper (constellation)</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Катерьне</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Catherine</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Кавре</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Gabriel</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Кафтасть</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Gemini</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Казахстан</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Kazakhstan</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Кече</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Ursa Major</t><t pos="N" type="Prop">the Great Bear</t><t pos="N" type="Prop">Big Dipper (constellation)</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Кельме атя</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Santa Claus</t><t pos="N" type="Prop">God of Cold (Old)</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Кельме океан</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Arctic ocean</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Келу</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">The Birch (Great Tree, the World Pillar)</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Келяга</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Ursa Minor</t><t pos="N" type="Prop">Dog's-tail (constellation)</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Кезор</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Caesar</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Кидай</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Earth God</t><t pos="N" type="Prop">Almighty</t><t pos="N" type="Prop">Lord of the Earth</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Киргиз мастор</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Kyrghyzstan</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Кириат-Ярим</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Kiriath Jearim (place)</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Кщяльня</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Epiphany</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Китай</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">China</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Клема</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Clement</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Колматяштть</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Orion</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Коми мастор</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Komi (country)</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Коран</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Koran</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Корея</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Korea (country)</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Коте</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Nicodim</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Коватя</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Moon god</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Ковава</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Moon godess</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Ковсь</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">The Moon</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Кранч Каназор</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Raven Khan</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Кранцмастор</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">France</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Крила</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Cyril</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Кристоз</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Christ</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Кучка Шиньстямаширь</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Middle East</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Кудава</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Home deity (Home mother)</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Куля</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Akoulina</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Курьхця тяштть</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Orion</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Курьхцякс</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Orion</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Кведа</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Theodosia</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Ласей</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Vlas</t><t pos="N" type="Prop">Vlasius</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Латвия</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Latvia (country)</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Лазур</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Lazarus</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Лепешкай</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">God of Alder tree</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Лиса</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Elisabeth</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Лисема</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Exodus (Bible)</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Литва</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Lithuania (country)</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Лифта</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">progenitress of Erzyans</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Лёса</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Alexandra</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Ломаньтналхнень Соткссна</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">United Nations</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Лувкст</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Numbers (Bible)</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Леса</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Alexander</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Ляценди</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Sagittarius</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Мадьяр мастор</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Hungary (country)</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Мака</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Macheus</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Максима</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Maxim</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Мансимастор</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Mansi country</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Мар-тяште</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Pleiades</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Марфа</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Martha</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Маримастор</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Mari country</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Марю</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Maria</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Марка</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Mark</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Масторонь кирди</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Earth God</t><t pos="N" type="Prop">Almighty</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Масторатя</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">God of the Underworld (Underworld Father)</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Масторава</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Godess of the Earth (Earth Mother)</t><t pos="N" type="Prop">Motherland</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Матьфей</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Mathew</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Мациень Ки</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Milky Way</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Мельчеже</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">spirit seen by Kuzma Alekseev</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Менель петьколь</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">The North Star (The Centre of the Universe)</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Меркури</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Mercury (planet)</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Михаила</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Michael</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Михей</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Micah</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Мика</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Nikita</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Микилай</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Nicholas</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Мисей</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Moses</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Модакучкастонь оцюведь</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Mediterranean Sea</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Модава</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Earth Deity</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Мока</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Mocius</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Мокша</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Moksha (river)</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Мокша мастор</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Moksha (country)</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Мокшан</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Mokshan (city)</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Млафей</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Malachi</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Молдаван мастор</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Moldavia (country)</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Моску</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Moscow</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Нафан</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Nathan</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Настасия</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Anasthasia</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Наталья</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Nathalie</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Нава</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Nahum</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Навинонь Исус</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Joshua (Bible)</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Нееман</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Naaman</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Немврод</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Nemrod</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Ненец мастор</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Nenets land</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Ненила</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Neonila</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Нептун</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Neptun (planet)</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Ной</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Noah</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Ноеминь</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Naomi</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Норузава</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">land deity (female)</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Норвегия</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Norway (country)</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Норзяд</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Norziad</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Од Соткс</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">New Testament</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Офни</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Hophni (Bible name)</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Охимия</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Euphimia</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Охозия</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Ahaziah</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Оксе</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Xenia</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Олда</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Eudochia</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Ольга</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Helga</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Олёна</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Helena</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Омбоце Койсь</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Deuteronomy (Bible)</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Омбоцекс вирьмаци</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Swan (constellation)</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Орья</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Irina</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Орьте</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Arthemia</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Орксофта</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Leo</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Ося</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Joseph</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Оцю ал</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">The Great egg</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Оцю Белти</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">the Great Belt (strait)</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Оцязорхт Книгась</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Kings (Bible)</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Офтонь мадя</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Auriga</t><t pos="N" type="Prop">Waggoner</t><t pos="N" type="Prop">Charioteer (constellation)</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Офтонь мастор</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Bearland</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Озял</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Swan (constellation)</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Озяс</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Pleiades</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Паксява</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Field deity</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Пала(га)</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Pelagia</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Панжемвалонза</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Revelation (Bible)</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Павол</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Paul</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Петерьбур</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Saint-Petersburg</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Петру</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Peter</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Пиндол тяште</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Sirius</t><t pos="N" type="Prop">Dog-star</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Плутон</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Pluto (planet)</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Полгонь тяште</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Andromeda</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Польша</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Poland</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Поля</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Pauline</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Португалия</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Portugal (country)</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Потанжа</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Cancer</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Профор</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Prophor</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Псалмань Книгась</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">the Psalms (Bible book)</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Пянакудава</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Oven Mother (oven deity)</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Пятань сёрмац</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Peter (Bible)</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Расей</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Russia</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Расей</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Demon of diseases</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Россия</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Russia</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Ратор</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Alatyr (river)</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Ратор ош</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Alatyr (city)</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Рава</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Volga</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Рава аймак</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Volga region</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Рава шире</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Middle Volga lands</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Равава</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Deity of the River Volga</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Рузь мода</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Russia</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Рузмастор</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Russia</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Рузонь Федерация</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Russian Federation</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Рузонь шире</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Rus Kingdom</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Сааммастор</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Lappland (country)</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Салоне</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Salome</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Санда</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Alexandra</t><t pos="N" type="Prop">Sandra</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Сара</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Saranka river</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Саран(г)ош</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Saransk</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Сару</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Serathim</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Сатана</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Satan</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Сатанаил</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Satan</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Сатурн</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Saturn</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Саудонь Арабия</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Saudi Arabia (country)</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Савоку</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Sabbelius</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Селькупмастор</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Selkup land</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Сема</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Simon</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Сетьме океан</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Pacific Ocean</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Силья</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Silus</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Силом</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Shiloh (place)</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Симбирь</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Simbirsk (city)</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Сёрава</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Crop deity</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Сёрматфсь</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">scripture</t><t pos="N" type="Prop">Bible</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Скорпион</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Scorpio</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Словакия</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Slovakia (country)</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Словения</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Slovenia (country)</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Смузю тяште</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">the North Star</t><t pos="N" type="Prop">Pole Star</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Софа</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Sofia</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Солай</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Solomonida</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Солтан</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Earth God</t><t pos="N" type="Prop">Almighty</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Стирь</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Virgo</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Судьянь Книгась</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Judges (Bible)</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Суоми мастор</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Finland (country)</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Сембоньгирдись</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Pope</t><t pos="N" type="Prop">Patriarchy</t><t pos="N" type="Prop">the Almighty</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Сярьгей</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Sergius</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Сявзюра</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Capricorn</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Таджик мастор</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Tajikistan</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Тама</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Tamara</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Тара</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Tarasus</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Тарю</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Daria</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Тарваз тяште</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Serpens (constellation)</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Ташта Соткс</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Old Testament</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Ташта соткс</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Old Testament</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Татар мастор</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Tataria (country)</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Татарстан</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Tataria (republic in Russian Federation)</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Татю</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Tatiana</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Таусяй</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Swine day</t><t pos="N" type="Prop">Swine God (pagan)</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Трьгорей</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Gregory</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Тере</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Terentius</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Тефне</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Acts (Bible)</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Тыва</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Tyva (republic in Far East of Russia)</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Тюма</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Timothy</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Тюштя(н)</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Tyushtya (epic king)</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Толава</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Fire godess (Myth)</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Торама</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Torama</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Трафа</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Trophimus</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Тромса</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Tromsö (city)</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Тумошкай</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">God of oak</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Туркомастор</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Turkey</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Туркмен мастор</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Turkmenia</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Тувоз тяште</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">the North Star</t><t pos="N" type="Prop">Pole Star</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">ТВ соткст</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">telecommunications</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Удмурт мастор</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Udmurtia (country)</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Украина</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Ukraine (country)</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Уляна</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Juliana</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Улю</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Julia</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Ункс</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Libra</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Уран</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Uranius (planet)</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Уське тяштть</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Ursa Minor</t><t pos="N" type="Prop">Dog's-tail (constellation)</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Вафуил</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Bethuel</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Вайда ярхцамась</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">period from Christmas to Shrovetide</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Валдоптомань пинге</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">the age of Enlightenment</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Валмуворксонь Книгась</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Proverbs (Bible)</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Валондома ши</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Saint John Baptist's Day</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Вара</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Barbara</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Вармань кирди</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Wind godess</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Вармава</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Wind godess</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Вармава</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Deity of Wind (Wind Mother)</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Васальге</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Basilisa</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Василь</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Basil</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Васенцекс вирьмаци</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Swan (constellation)</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Ваз</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Taurus</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Ведяля</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">male water spirit</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Ведятя</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">male water spirit</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Ведява</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">water godess (Water Mother)</t><t pos="N" type="Prop">undine</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Ведьканни</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Aquarius</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Ведень кандома тяште</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Rigel (star)</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Ведень канни тяште</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">one of the stars in Gemini constellation</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Велень кирди юрхтава</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">clan village godess</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Венгрань мастор</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Hungary (country)</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Вепс мастор</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Vepsia (country)</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Верняй</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Palm Sunday</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Верма</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Palm Sunday</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Веста</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Libra</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Видемозкс</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">winter crops prayer (pagan)</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Вирятя</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">male spirit of forest</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Вирява</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">forest deity (Forest Mother)</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Вирсавия</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Bathsheba (Bible name)</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Вотяк мастор</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Votyak country</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Вярьде Шкай</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Supreme God</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Вероз</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Aries</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Закарь</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Zachariah</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Зине</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">Zinovius</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Зирняйрясь Баба</l></lg><mg><tg xml:lang="eng"><t pos="N" type="Prop">hag</t><t pos="N" type="Prop">harridan</t></tg></mg></e>
+</r>

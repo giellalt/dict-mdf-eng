@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<r xml:lang="mdf">
+<e><lg><l pos="Prefix">атя-</l></lg><mg><tg xml:lang="eng"><t pos="Prefix">male (animals)</t></tg></mg></e>
+<e><lg><l pos="Prefix">ава-</l></lg><mg><tg xml:lang="eng"><t pos="Prefix">female (animals)</t></tg></mg></e>
+<e><lg><l pos="Prefix">эсь</l></lg><mg><tg xml:lang="eng"><t pos="Prefix">self</t><t pos="Prefix">auto</t></tg></mg></e>
+<e><lg><l pos="Suff">-га</l></lg><mg><tg xml:lang="eng"><t pos="Adv">also</t><t pos="Adv">as well</t><t pos="Adv">too</t><t pos="Adv">either</t></tg></mg></e>
+<e><lg><l pos="Suff">-ге</l></lg><mg><tg xml:lang="eng"><t pos="Adv">also</t><t pos="Adv">as well</t><t pos="Adv">too</t><t pos="Adv">either</t><t pos="Adv">yet</t><t pos="Adv">already</t></tg></mg></e>
+<e><lg><l pos="Suff">-ка</l></lg><mg><tg xml:lang="eng"><t pos="Adv">also</t><t pos="Adv">as well</t><t pos="Adv">too</t><t pos="Adv">either</t></tg></mg></e>
+<e><lg><l pos="Suff">-ке</l></lg><mg><tg xml:lang="eng"><t pos="Adv">also</t><t pos="Adv">as well</t><t pos="Adv">too</t><t pos="Adv">either</t></tg></mg></e>
+<e><lg><l pos="Suff">-нга</l></lg><mg><tg xml:lang="eng"><t pos="Adv">also</t><t pos="Adv">as well</t><t pos="Adv">too</t><t pos="Adv">either</t></tg></mg></e>
+<e><lg><l pos="Suff">-нге</l></lg><mg><tg xml:lang="eng"><t pos="Adv">also</t><t pos="Adv">as well</t><t pos="Adv">too</t><t pos="Adv">either</t></tg></mg></e>
+<e><lg><l pos="Suff">-нь</l></lg><mg><tg xml:lang="eng"><t pos="Pr">of</t></tg></mg></e>
+<e><lg><l pos="Suff">-ши</l></lg><mg><tg xml:lang="eng"><t pos="Suff">ness</t><t pos="Suff">ism</t></tg></mg></e>
+<e><lg><l pos="Suff">-шка</l></lg><mg><tg xml:lang="eng"><t pos="Pr">about (approximately)</t></tg></mg></e>
+<e><lg><l pos="Suff">-сь</l></lg><mg><tg xml:lang="eng"><t pos="Art">the</t></tg></mg></e>
+<e><lg><l pos="Suff" nb="Pl">-тне</l></lg><mg><tg xml:lang="eng"><t pos="Art" nb="Pl">the</t></tg></mg></e>
+<e><lg><l pos="Suff">вок</l></lg><mg><tg xml:lang="eng"><t pos="Adv">yet</t><t pos="Adv">already</t></tg></mg></e>
+
+</r>

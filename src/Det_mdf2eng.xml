@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<r xml:lang="mdf">
+<e><lg><l pos="Det">колмоце</l></lg><mg><tg xml:lang="eng"><t pos="Det">third</t></tg></mg></e>
+<e><lg><l pos="Det">ингольце</l></lg><mg><tg xml:lang="eng"><t pos="Det">headmost</t><t pos="Det">fore</t><t pos="Det">front</t><t pos="Det">former</t></tg></mg></e>
+<e><lg><l pos="Det">кафксоце</l></lg><mg><tg xml:lang="eng"><t pos="Det">eighth</t></tg></mg></e>
+<e><lg><l pos="Det">кемоньце</l></lg><mg><tg xml:lang="eng"><t pos="Det">tenth</t></tg></mg></e>
+<e><lg><l pos="Det">комозце</l></lg><mg><tg xml:lang="eng"><t pos="Det">twentieth</t></tg></mg></e>
+<e><lg><l pos="Det">котоце</l></lg><mg><tg xml:lang="eng"><t pos="Det">sixth</t></tg></mg></e>
+<e><lg><l pos="Det">мекольце</l></lg><mg><tg xml:lang="eng"><t pos="Det">last</t><t pos="Det">later</t><t pos="Det">recent</t><t pos="Det">ultimate</t><t pos="Det">late</t></tg></mg></e>
+<e><lg><l pos="Det">мекольценя</l></lg><mg><tg xml:lang="eng"><t pos="Det">latest</t></tg></mg></e>
+<e><lg><l pos="Det">нилеце</l></lg><mg><tg xml:lang="eng"><t pos="Det">fourth</t></tg></mg></e>
+<e><lg><l pos="Det">омбоце</l></lg><mg><tg xml:lang="eng"><t pos="Det">second</t><t pos="Det">other</t></tg></mg></e>
+<e><lg><l pos="Det">сисемце</l></lg><mg><tg xml:lang="eng"><t pos="Det">seventh</t></tg></mg></e>
+<e><lg><l pos="Det">васенце</l></lg><mg><tg xml:lang="eng"><t pos="Det">first</t><t pos="Det">primary</t><t pos="Det">new</t><t pos="Det">fresh</t><t pos="Det">early</t></tg></mg></e>
+<e><lg><l pos="Det">вейхксоце</l></lg><mg><tg xml:lang="eng"><t pos="Det">ninth</t></tg></mg></e>
+<e><lg><l pos="Det">ветеце</l></lg><mg><tg xml:lang="eng"><t pos="Det">fifth</t></tg></mg></e>
+<e><lg><l pos="Det">фталце</l></lg><mg><tg xml:lang="eng"><t pos="Det">back</t><t pos="Det">hind</t><t pos="Det">rear</t></tg></mg></e>
+<e><lg><l pos="Det">вярце</l></lg><mg><tg xml:lang="eng"><t pos="Det">upper</t></tg></mg></e>
+</r>

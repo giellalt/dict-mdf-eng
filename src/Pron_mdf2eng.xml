@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<r xml:lang="mdf">
+<e><lg><l pos="Pron">эшка</l></lg><mg><tg xml:lang="eng"><t pos="Pron">about (approximately)</t></tg></mg></e>
+<e><lg><l pos="Pron">эсь</l></lg><mg><tg xml:lang="eng"><t pos="Pron">self (herself</t><t pos="Pron">himself</t><t pos="Pron">itself</t><t pos="Pron">oneself</t><t pos="Pron">myself)</t></tg></mg></e>
+<e><lg><l pos="Pron">гайся</l></lg><mg><tg xml:lang="eng"><t pos="Pron">that (not very far)</t></tg></mg></e>
+<e><lg><l pos="Pron">иля</l></lg><mg><tg xml:lang="eng"><t pos="Pron">other</t></tg></mg></e>
+<e><lg><l pos="Pron">кати</l></lg><mg><tg xml:lang="eng"><t pos="Pron">maybe</t><t pos="Pron">perhaps</t></tg></mg></e>
+<e><lg><l pos="Pron">кати-кие</l></lg><mg><tg xml:lang="eng"><t pos="Pron">somebody</t></tg></mg></e>
+<e><lg><l pos="Pron">кати-мезе</l></lg><mg><tg xml:lang="eng"><t pos="Pron">something</t><t pos="Pron">anything</t></tg></mg></e>
+<e><lg><l pos="Pron">кафцьке</l></lg><mg><tg xml:lang="eng"><t pos="Pron">both</t></tg></mg></e>
+<e><lg><l pos="Pron">кафцьконди</l></lg><mg><tg xml:lang="eng"><t pos="Pron">to both</t></tg></mg></e>
+<e><lg><l pos="Pron">кие</l></lg><mg><tg xml:lang="eng"><t pos="Pron">who</t></tg></mg></e>
+<e><lg><l pos="Pron">кие-бди</l></lg><mg><tg xml:lang="eng"><t pos="Pron">somebody</t><t pos="Pron">anybody</t></tg></mg></e>
+<e><lg><l pos="Pron">кигава</l></lg><mg><tg xml:lang="eng"><t pos="Pron">nobody</t><t pos="Pron">anybody</t><t pos="Pron">neither</t><t pos="Pron">whoever</t></tg></mg></e>
+<e><lg><l pos="Pron">киге</l></lg><mg><tg xml:lang="eng"><t pos="Pron">nobody</t><t pos="Pron">anybody</t><t pos="Pron">neither</t><t pos="Pron">whoever</t></tg></mg></e>
+<e><lg><l pos="Pron">кинь</l></lg><mg><tg xml:lang="eng"><t pos="Pron">whose</t></tg></mg></e>
+<e><lg><l pos="Pron">кинь-кинь</l></lg><mg><tg xml:lang="eng"><t pos="Pron">nobody</t><t pos="Pron">anybody</t><t pos="Pron">neither</t><t pos="Pron">whoever</t></tg></mg></e>
+<e><lg><l pos="Pron">кинди</l></lg><mg><tg xml:lang="eng"><t pos="Pron">whom (to)</t></tg></mg></e>
+<e><lg><l pos="Pron">киндиге</l></lg><mg><tg xml:lang="eng"><t pos="Pron">to anybody</t><t pos="Pron">to nobody</t></tg></mg></e>
+<e><lg><l pos="Pron">киндивок</l></lg><mg><tg xml:lang="eng"><t pos="Pron">to anybody</t><t pos="Pron">to nobody</t></tg></mg></e>
+<e><lg><l pos="Pron">киньге</l></lg><mg><tg xml:lang="eng"><t pos="Pron">anybody</t><t pos="Pron">somebody</t><t pos="Pron">nobody</t></tg></mg></e>
+<e><lg><l pos="Pron">кивок</l></lg><mg><tg xml:lang="eng"><t pos="Pron">nobody</t><t pos="Pron">anybody</t><t pos="Pron">neither</t><t pos="Pron">whoever</t></tg></mg></e>
+<e><lg><l pos="Pron">кодама</l></lg><mg><tg xml:lang="eng"><t pos="Pron">what kind of</t></tg></mg></e>
+<e><lg><l pos="Pron">кой-кона</l></lg><mg><tg xml:lang="eng"><t pos="Pron">somebody</t></tg></mg></e>
+<e><lg><l pos="Pron">кой-мезе</l></lg><mg><tg xml:lang="eng"><t pos="Pron">anything</t></tg></mg></e>
+<e><lg><l pos="Pron">кона</l></lg><mg><tg xml:lang="eng"><t pos="Pron">which</t><t pos="Pron">who</t><t pos="Pron">what</t></tg></mg></e>
+<e><lg><l pos="Pron">кона-бди</l></lg><mg><tg xml:lang="eng"><t pos="Pron">somebody</t></tg></mg></e>
+<e><lg><l pos="Pron">кона-кона</l></lg><mg><tg xml:lang="eng"><t pos="Pron">whichever</t><t pos="Pron">whoever</t><t pos="Pron">whatever</t></tg></mg></e>
+<e><lg><l pos="Pron">конага</l></lg><mg><tg xml:lang="eng"><t pos="Pron">whichever</t><t pos="Pron">whoever</t><t pos="Pron">whatever</t></tg></mg></e>
+<e><lg><l pos="Pron">конашка</l></lg><mg><tg xml:lang="eng"><t pos="Pron">what</t><t pos="Pron">what sort of</t></tg></mg></e>
+<e><lg><l pos="Pron">конашкада</l></lg><mg><tg xml:lang="eng"><t pos="Pron">when ever</t><t pos="Pron">at what time</t></tg></mg></e>
+<e><lg><l pos="Pron">конашкаста</l></lg><mg><tg xml:lang="eng"><t pos="Pron">how much</t><t pos="Pron">so much</t></tg></mg></e>
+<e><lg><l pos="Pron">конац</l></lg><mg><tg xml:lang="eng"><t pos="Pron">which</t><t pos="Pron">who</t><t pos="Pron">that</t></tg></mg></e>
+<e><lg><l pos="Pron">конавок</l></lg><mg><tg xml:lang="eng"><t pos="Pron">whichever</t><t pos="Pron">whoever</t><t pos="Pron">whatever</t></tg></mg></e>
+<e><lg><l pos="Pron">костонга</l></lg><mg><tg xml:lang="eng"><t pos="Pron">anywhere (from)</t><t pos="Pron">from somewhere or other</t><t pos="Pron">never</t></tg></mg></e>
+<e><lg><l pos="Pron">костонь</l></lg><mg><tg xml:lang="eng"><t pos="Pron">where from (origin)</t></tg></mg></e>
+<e><lg><l pos="Pron">мезе</l></lg><mg><tg xml:lang="eng"><t pos="Pron">what</t></tg></mg></e>
+<e><lg><l pos="Pron">мезе-бди</l></lg><mg><tg xml:lang="eng"><t pos="Pron">anything</t><t pos="Pron">something</t></tg></mg></e>
+<e><lg><l pos="Pron">мезе-мезе</l></lg><mg><tg xml:lang="eng"><t pos="Pron">anything</t><t pos="Pron">something</t><t pos="Pron">nothing</t><t pos="Pron">whatever</t></tg></mg></e>
+<e><lg><l pos="Pron">мезеге</l></lg><mg><tg xml:lang="eng"><t pos="Pron">anything</t><t pos="Pron">something</t><t pos="Pron">nothing</t><t pos="Pron">whatever</t></tg></mg></e>
+<e><lg><l pos="Pron">мезень</l></lg><mg><tg xml:lang="eng"><t pos="Pron">what (a ..)</t></tg></mg></e>
+<e><lg><l pos="Pron">мезенди</l></lg><mg><tg xml:lang="eng"><t pos="Pron">what for</t></tg></mg></e>
+<e><lg><l pos="Pron">мзяра</l></lg><mg><tg xml:lang="eng"><t pos="Pron">how many</t><t pos="Pron">how much</t></tg></mg></e>
+<e><lg><l pos="Pron">мзяроце</l></lg><mg><tg xml:lang="eng"><t pos="Pron">what (number)</t></tg></mg></e>
+<e><lg><l pos="Pron">мезевок</l></lg><mg><tg xml:lang="eng"><t pos="Pron">anything</t><t pos="Pron">something</t><t pos="Pron">nothing</t><t pos="Pron">whatever</t></tg></mg></e>
+<e><lg><l pos="Pron">минь</l></lg><mg><tg xml:lang="eng"><t pos="Pron">we</t><t pos="Pron">us</t><t pos="Pron">our</t></tg></mg></e>
+<e><lg><l pos="Pron">миндейнек</l></lg><mg><tg xml:lang="eng"><t pos="Pron">to us</t><t pos="Pron">for us</t></tg></mg></e>
+<e><lg><l pos="Pron">миндеезонк</l></lg><mg><tg xml:lang="eng"><t pos="Pron">to us</t><t pos="Pron">for us</t></tg></mg></e>
+<e><lg><l pos="Pron">минць</l></lg><mg><tg xml:lang="eng"><t pos="Pron">ourselves</t></tg></mg></e>
+<e><lg><l pos="Pron">минцень</l></lg><mg><tg xml:lang="eng"><t pos="Pron">our own</t><t pos="Pron">ourselves</t></tg></mg></e>
+<e><lg><l pos="Pron">мон</l></lg><mg><tg xml:lang="eng"><t pos="Pron">I</t></tg></mg></e>
+<e><lg><l pos="Pron">монь</l></lg><mg><tg xml:lang="eng"><t pos="Pron">me</t><t pos="Pron">my</t><t pos="Pron">mine</t></tg></mg></e>
+<e><lg><l pos="Pron">мондейне</l></lg><mg><tg xml:lang="eng"><t pos="Pron">to me</t><t pos="Pron">for me</t></tg></mg></e>
+<e><lg><l pos="Pron">моннетне</l></lg><mg><tg xml:lang="eng"><t pos="Pron">mine </t><t pos="Pron">pl</t></tg></mg></e>
+<e><lg><l pos="Pron">монцень</l></lg><mg><tg xml:lang="eng"><t pos="Pron">my own</t></tg></mg></e>
+<e><lg><l pos="Pron">нона</l></lg><mg><tg xml:lang="eng"><t pos="Pron">that (very far)</t></tg></mg></e>
+<e><lg><l pos="Pron" nb="Pl">нонат</l></lg><mg><tg xml:lang="eng"><t pos="Pron" nb="Pl">those (very far)</t></tg></mg></e>
+<e><lg><l pos="Pron" nb="Pl">нонатне</l></lg><mg><tg xml:lang="eng"><t pos="Pron" nb="Pl">those (very far)</t></tg></mg></e>
+<e><lg><l pos="Pron">ня</l></lg><mg><tg xml:lang="eng"><t pos="Pron">these (not very far)</t></tg></mg></e>
+<e><lg><l pos="Pron" nb="Pl">няда</l></lg><mg><tg xml:lang="eng"><t pos="Pron" nb="Pl">but for these (not very far)</t></tg></mg></e>
+<e><lg><l pos="Pron">няка</l></lg><mg><tg xml:lang="eng"><t pos="Pron">same these (not very far)</t></tg></mg></e>
+<e><lg><l pos="Pron">няконя</l></lg><mg><tg xml:lang="eng"><t pos="Pron">only these (not very far)</t></tg></mg></e>
+<e><lg><l pos="Pron" nb="Pl">някотне</l></lg><mg><tg xml:lang="eng"><t pos="Pron" nb="Pl">same these (not very far)</t></tg></mg></e>
+<e><lg><l pos="Pron">нянь</l></lg><mg><tg xml:lang="eng"><t pos="Pron">of these (not very far)</t></tg></mg></e>
+<e><lg><l pos="Pron">нянди</l></lg><mg><tg xml:lang="eng"><t pos="Pron">for these (not very far)</t></tg></mg></e>
+<e><lg><l pos="Pron" nb="Pl">нянкса</l></lg><mg><tg xml:lang="eng"><t pos="Pron" nb="Pl">for the sake of these (not very far)</t></tg></mg></e>
+<e><lg><l pos="Pron" nb="Pl">няшка</l></lg><mg><tg xml:lang="eng"><t pos="Pron" nb="Pl">compared to these (not very far)</t></tg></mg></e>
+<e><lg><l pos="Pron" nb="Pl">нят</l></lg><mg><tg xml:lang="eng"><t pos="Pron" nb="Pl">these (not very far)</t></tg></mg></e>
+<e><lg><l pos="Pron">нятнень</l></lg><mg><tg xml:lang="eng"><t pos="Pron">of these (not very far)</t></tg></mg></e>
+<e><lg><l pos="Pron">нятненди</l></lg><mg><tg xml:lang="eng"><t pos="Pron">for these (not very far)</t></tg></mg></e>
+<e><lg><l pos="Pron" nb="Pl">няфтома</l></lg><mg><tg xml:lang="eng"><t pos="Pron" nb="Pl">without these (not very far)</t></tg></mg></e>
+<e><lg><l pos="Pron">сияк</l></lg><mg><tg xml:lang="eng"><t pos="Pron">and that one</t><t pos="Pron">there</t><t pos="Pron">thither</t><t pos="Pron">to that place (near you)</t></tg></mg></e>
+<e><lg><l pos="Pron">синь</l></lg><mg><tg xml:lang="eng"><t pos="Pron">they</t><t pos="Pron">them</t><t pos="Pron">their</t></tg></mg></e>
+<e><lg><l pos="Pron">синьдеезост</l></lg><mg><tg xml:lang="eng"><t pos="Pron">for them</t><t pos="Pron">to them</t></tg></mg></e>
+<e><lg><l pos="Pron">синдеест</l></lg><mg><tg xml:lang="eng"><t pos="Pron">to you</t><t pos="Pron">for you</t></tg></mg></e>
+<e><lg><l pos="Pron">синць</l></lg><mg><tg xml:lang="eng"><t pos="Pron">themselves</t></tg></mg></e>
+<e><lg><l pos="Pron">синцень</l></lg><mg><tg xml:lang="eng"><t pos="Pron">their own</t></tg></mg></e>
+<e><lg><l pos="Pron">сице</l></lg><mg><tg xml:lang="eng"><t pos="Pron">that</t></tg></mg></e>
+<e><lg><l pos="Pron">сон</l></lg><mg><tg xml:lang="eng"><t pos="Pron">he</t><t pos="Pron">she</t><t pos="Pron">it</t></tg></mg></e>
+<e><lg><l pos="Pron">сонь</l></lg><mg><tg xml:lang="eng"><t pos="Pron">him</t><t pos="Pron">his</t><t pos="Pron">her</t></tg></mg></e>
+<e><lg><l pos="Pron">сондеенза</l></lg><mg><tg xml:lang="eng"><t pos="Pron">to him</t><t pos="Pron">for him</t><t pos="Pron">to her</t><t pos="Pron">for her</t></tg></mg></e>
+<e><lg><l pos="Pron">стама</l></lg><mg><tg xml:lang="eng"><t pos="Pron">such</t></tg></mg></e>
+<e><lg><l pos="Pron">ся</l></lg><mg><tg xml:lang="eng"><t pos="Pron">that (not very far)</t></tg></mg></e>
+<e><lg><l pos="Pron">ся</l></lg><mg><tg xml:lang="eng"><t pos="Pron">that (not very far)</t></tg></mg></e>
+<e><lg><l pos="Pron">сяда</l></lg><mg><tg xml:lang="eng"><t pos="Pron">but for that</t><t pos="Pron">compare to that (not very far)</t></tg></mg></e>
+<e><lg><l pos="Pron">сяка</l></lg><mg><tg xml:lang="eng"><t pos="Pron">same this (not very far)</t><t pos="Pron">anyway</t></tg></mg></e>
+<e><lg><l pos="Pron">сяканя</l></lg><mg><tg xml:lang="eng"><t pos="Pron">only that</t></tg></mg></e>
+<e><lg><l pos="Pron" nb="Pl">сякот</l></lg><mg><tg xml:lang="eng"><t pos="Pron" nb="Pl">same those (not very far)</t></tg></mg></e>
+<e><lg><l pos="Pron">сембе</l></lg><mg><tg xml:lang="eng"><t pos="Pron">all</t><t pos="Pron">everybody</t><t pos="Pron">everyone</t><t pos="Pron">everything</t><t pos="Pron">whole</t></tg></mg></e>
+<e><lg><l pos="Pron">сянь</l></lg><mg><tg xml:lang="eng"><t pos="Pron">of that (not very far)</t></tg></mg></e>
+<e><lg><l pos="Pron">сянди</l></lg><mg><tg xml:lang="eng"><t pos="Pron">for that (not very far)</t></tg></mg></e>
+<e><lg><l pos="Pron">сняра</l></lg><mg><tg xml:lang="eng"><t pos="Pron">this much</t></tg></mg></e>
+<e><lg><l pos="Pron" nb="Pl">сят</l></lg><mg><tg xml:lang="eng"><t pos="Pron" nb="Pl">those (not very far)</t></tg></mg></e>
+<e><lg><l pos="Pron">сятнень</l></lg><mg><tg xml:lang="eng"><t pos="Pron">of those (not very far)</t></tg></mg></e>
+<e><lg><l pos="Pron">сятненди</l></lg><mg><tg xml:lang="eng"><t pos="Pron">for those (not very far)</t></tg></mg></e>
+<e><lg><l pos="Pron">сявок</l></lg><mg><tg xml:lang="eng"><t pos="Pron">and that one</t></tg></mg></e>
+<e><lg><l pos="Pron">сяфтама</l></lg><mg><tg xml:lang="eng"><t pos="Pron">without</t></tg></mg></e>
+<e><lg><l pos="Pron">тейнть</l></lg><mg><tg xml:lang="eng"><t pos="Pron">to you</t><t pos="Pron">for you</t></tg></mg></e>
+<e><lg><l pos="Pron">теенза</l></lg><mg><tg xml:lang="eng"><t pos="Pron">to him</t><t pos="Pron">for him</t><t pos="Pron">to her</t><t pos="Pron">for her</t></tg></mg></e>
+<e><lg><l pos="Pron">тейне</l></lg><mg><tg xml:lang="eng"><t pos="Pron">to me</t><t pos="Pron">for me</t></tg></mg></e>
+<e><lg><l pos="Pron">тейнек</l></lg><mg><tg xml:lang="eng"><t pos="Pron">to us</t><t pos="Pron">for us</t></tg></mg></e>
+<e><lg><l pos="Pron">тейть</l></lg><mg><tg xml:lang="eng"><t pos="Pron">thee</t></tg></mg></e>
+<e><lg><l pos="Pron">теезонк</l></lg><mg><tg xml:lang="eng"><t pos="Pron">to us</t><t pos="Pron">for us</t></tg></mg></e>
+<e><lg><l pos="Pron">теезост</l></lg><mg><tg xml:lang="eng"><t pos="Pron">to them</t><t pos="Pron">for them</t></tg></mg></e>
+<e><lg><l pos="Pron">теест</l></lg><mg><tg xml:lang="eng"><t pos="Pron">to them</t><t pos="Pron">for them</t></tg></mg></e>
+<e><lg><l pos="Pron">тинь</l></lg><mg><tg xml:lang="eng"><t pos="Pron">you (several)</t><t pos="Pron">you (formal address)</t><t pos="Pron">your (several)</t></tg></mg></e>
+<e><lg><l pos="Pron">тиндейнть</l></lg><mg><tg xml:lang="eng"><t pos="Pron">to you</t><t pos="Pron">for you</t></tg></mg></e>
+<e><lg><l pos="Pron">тинць</l></lg><mg><tg xml:lang="eng"><t pos="Pron">yourselves</t></tg></mg></e>
+<e><lg><l pos="Pron">тинцень</l></lg><mg><tg xml:lang="eng"><t pos="Pron">your own</t></tg></mg></e>
+<e><lg><l pos="Pron">тите</l></lg><mg><tg xml:lang="eng"><t pos="Pron">same this</t></tg></mg></e>
+<e><lg><l pos="Pron">томбали</l></lg><mg><tg xml:lang="eng"><t pos="Pron">onto that side</t></tg></mg></e>
+<e><lg><l pos="Pron">тон</l></lg><mg><tg xml:lang="eng"><t pos="Pron">thou</t><t pos="Pron">you</t></tg></mg></e>
+<e><lg><l pos="Pron">тона</l></lg><mg><tg xml:lang="eng"><t pos="Pron">this</t><t pos="Pron">that (very far)</t></tg></mg></e>
+<e><lg><l pos="Pron" nb="Pl">тонат</l></lg><mg><tg xml:lang="eng"><t pos="Pron" nb="Pl">these (very far)</t></tg></mg></e>
+<e><lg><l pos="Pron" nb="Pl">тонатне</l></lg><mg><tg xml:lang="eng"><t pos="Pron" nb="Pl">these (very far)</t></tg></mg></e>
+<e><lg><l pos="Pron">тондейть</l></lg><mg><tg xml:lang="eng"><t pos="Pron">thee</t></tg></mg></e>
+<e><lg><l pos="Pron">тонць</l></lg><mg><tg xml:lang="eng"><t pos="Pron">thyself</t></tg></mg></e>
+<e><lg><l pos="Pron">тя</l></lg><mg><tg xml:lang="eng"><t pos="Pron">this</t></tg></mg></e>
+<e><lg><l pos="Pron">тяда</l></lg><mg><tg xml:lang="eng"><t pos="Pron">but for this</t><t pos="Pron">compare to this</t></tg></mg></e>
+<e><lg><l pos="Pron">тяка</l></lg><mg><tg xml:lang="eng"><t pos="Pron">same this</t></tg></mg></e>
+<e><lg><l pos="Pron">тяконя</l></lg><mg><tg xml:lang="eng"><t pos="Pron">only this</t></tg></mg></e>
+<e><lg><l pos="Pron">тянь</l></lg><mg><tg xml:lang="eng"><t pos="Pron">of this</t></tg></mg></e>
+<e><lg><l pos="Pron">тянди</l></lg><mg><tg xml:lang="eng"><t pos="Pron">for this</t></tg></mg></e>
+<e><lg><l pos="Pron">тяфтама</l></lg><mg><tg xml:lang="eng"><t pos="Pron">such</t></tg></mg></e>
+<e><lg><l pos="Pron">ва</l></lg><mg><tg xml:lang="eng"><t pos="Pron">this is</t></tg></mg></e>
+<e><lg><l pos="Pron">вага</l></lg><mg><tg xml:lang="eng"><t pos="Pron">this is</t><t pos="Pron">here</t><t pos="Pron">there</t></tg></mg></e>
+<e><lg><l pos="Pron">вов</l></lg><mg><tg xml:lang="eng"><t pos="Pron">this is</t></tg></mg></e>
+<e><lg><l pos="Pron">эрь</l></lg><mg><tg xml:lang="eng"><t pos="Pron">each</t><t pos="Pron">every</t></tg></mg></e>
+<e><lg><l pos="Pron">эрь</l></lg><mg><tg xml:lang="eng"><t pos="Pron">every</t><t pos="Pron">everybody</t></tg></mg></e>
+<e><lg><l pos="Pron">эрьва мезе</l></lg><mg><tg xml:lang="eng"><t pos="Pron">whatever</t></tg></mg></e>
+</r>

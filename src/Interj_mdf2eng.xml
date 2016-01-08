@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<r xml:lang="mdf">
+<e><lg><l pos="Interj">а</l></lg><mg><tg xml:lang="eng"><t pos="Interj">ah</t></tg></mg></e>
+<e><lg><l pos="Interj">абас</l></lg><mg><tg xml:lang="eng"><t pos="Interj">vulgar interjective</t></tg></mg></e>
+<e><lg><l pos="Interj">абон</l></lg><mg><tg xml:lang="eng"><t pos="Interj">farewell</t></tg></mg></e>
+<e><lg><l pos="Interj">анивай</l></lg><mg><tg xml:lang="eng"><t pos="Interj">alas</t><t pos="Interj">alack</t></tg></mg></e>
+<e><lg><l pos="Interj">ащек!</l></lg><mg><tg xml:lang="eng"><t pos="Interj">halt! stop!</t></tg></mg></e>
+<e><lg><l pos="Interj">бавак !</l></lg><mg><tg xml:lang="eng"><t pos="Interj">hush!</t></tg></mg></e>
+<e><lg><l pos="Interj">баву, баву!</l></lg><mg><tg xml:lang="eng"><t pos="Interj">lullaby</t></tg></mg></e>
+<e><lg><l pos="Interj">каф-каф</l></lg><mg><tg xml:lang="eng"><t pos="Interj">bow-wow</t></tg></mg></e>
+<e><lg><l pos="Interj">кашт!</l></lg><mg><tg xml:lang="eng"><t pos="Interj">hush!</t></tg></mg></e>
+<e><lg><l pos="Interj">кифч</l></lg><mg><tg xml:lang="eng"><t pos="Interj">of lightning flash</t></tg></mg></e>
+<e><lg><l pos="Interj">лац</l></lg><mg><tg xml:lang="eng"><t pos="Interj">well</t><t pos="Interj">good</t></tg></mg></e>
+<e><lg><l pos="Interj">офай</l></lg><mg><tg xml:lang="eng"><t pos="Interj">alas</t><t pos="Interj">alack</t></tg></mg></e>
+<e><lg><l pos="Interj">охай</l></lg><mg><tg xml:lang="eng"><t pos="Interj">alas</t><t pos="Interj">alack</t></tg></mg></e>
+<e><lg><l pos="Interj">ожка!</l></lg><mg><tg xml:lang="eng"><t pos="Interj">wait!</t></tg></mg></e>
+<e><lg><l pos="Interj">ожу!</l></lg><mg><tg xml:lang="eng"><t pos="Interj">wait!</t></tg></mg></e>
+<e><lg><l pos="Interj">панде!</l></lg><mg><tg xml:lang="eng"><t pos="Interj">enough!</t></tg></mg></e>
+<e><lg><l pos="Interj">шангадеза !</l></lg><mg><tg xml:lang="eng"><t pos="Interj">May God speed you!</t></tg></mg></e>
+<e><lg><l pos="Interj">шумбрат!</l></lg><mg><tg xml:lang="eng"><t pos="Interj">hello (to one)</t></tg></mg></e>
+<e><lg><l pos="Interj">шумбратада!</l></lg><mg><tg xml:lang="eng"><t pos="Interj">hello (to many)</t></tg></mg></e>
+<e><lg><l pos="Interj">уй!</l></lg><mg><tg xml:lang="eng"><t pos="Interj">ah !</t></tg></mg></e>
+<e><lg><l pos="Interj">улеза</l></lg><mg><tg xml:lang="eng"><t pos="Interj">amen</t></tg></mg></e>
+<e><lg><l pos="Interj">ва ни</l></lg><mg><tg xml:lang="eng"><t pos="Interj">look! why! oh</t></tg></mg></e>
+<e><lg><l pos="Interj">вай!</l></lg><mg><tg xml:lang="eng"><t pos="Interj">oh !</t></tg></mg></e>
+<e><lg><l pos="Interj">вайкс</l></lg><mg><tg xml:lang="eng"><t pos="Interj">alas</t><t pos="Interj">alack</t></tg></mg></e>
+<e><lg><l pos="Interj">Ворьхть!</l></lg><mg><tg xml:lang="eng"><t pos="Interj">Attention ! Get out! Stop!</t></tg></mg></e>
+<e><lg><l pos="Interj">эди!</l></lg><mg><tg xml:lang="eng"><t pos="Interj">hurrah</t></tg></mg></e>
+<e><lg><l pos="Interj">эрь ни!</l></lg><mg><tg xml:lang="eng"><t pos="Interj">now then! (to many)</t></tg></mg></e>
+</r>

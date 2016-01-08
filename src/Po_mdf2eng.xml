@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<r xml:lang="mdf">
+<e><lg><l pos="Po">вельф</l></lg><mg><tg xml:lang="eng"><t pos="Prefix">over-</t><t pos="Prefix">trans-</t></tg></mg></e>
+<e><lg><l pos="Po">аф ваномок</l></lg><mg><tg xml:lang="eng"><t pos="Pr">despite</t></tg></mg></e>
+<e><lg><l pos="Po">ала</l></lg><mg><tg xml:lang="eng"><t pos="Pr">under</t><t pos="Pr">beneath</t><t pos="Pr">below</t><t pos="Pr">underneath</t></tg></mg></e>
+<e><lg><l pos="Po">алда</l></lg><mg><tg xml:lang="eng"><t pos="Pr">from under</t></tg></mg></e>
+<e><lg><l pos="Po">алга</l></lg><mg><tg xml:lang="eng"><t pos="Pr">beneath</t><t pos="Pr">underneath (movement)</t></tg></mg></e>
+<e><lg><l pos="Po">алу</l></lg><mg><tg xml:lang="eng"><t pos="Pr">down to</t><t pos="Pr">under (direction)</t><t pos="Pr">downward</t></tg></mg></e>
+<e><lg><l pos="Po">башка</l></lg><mg><tg xml:lang="eng"><t pos="Pr">besides</t><t pos="Pr">except</t><t pos="Pr">but</t><t pos="Pr">moreover</t><t pos="Pr">furthermore</t></tg></mg></e>
+<e><lg><l pos="Po">бокова</l></lg><mg><tg xml:lang="eng"><t pos="Pr">alongside</t></tg></mg></e>
+<e><lg><l pos="Po">бокс</l></lg><mg><tg xml:lang="eng"><t pos="Pr">up to (side)</t></tg></mg></e>
+<e><lg><l pos="Po">бокса</l></lg><mg><tg xml:lang="eng"><t pos="Pr">by</t><t pos="Pr">at</t></tg></mg></e>
+<e><lg><l pos="Po">бокста</l></lg><mg><tg xml:lang="eng"><t pos="Pr">from (side)</t></tg></mg></e>
+<e><lg><l pos="Po">эмбе</l></lg><mg><tg xml:lang="eng"><t pos="Pr">until</t><t pos="Pr">till</t><t pos="Pr">as</t><t pos="Pr">if</t><t pos="Pr">whether</t><t pos="Pr">when</t><t pos="Pr">while</t><t pos="Pr">admitting that</t><t pos="Pr">provided that</t></tg></mg></e>
+<e><lg><l pos="Po">эс</l></lg><mg><tg xml:lang="eng"><t pos="Pr">into (direction)</t></tg></mg></e>
+<e><lg><l pos="Po">эса</l></lg><mg><tg xml:lang="eng"><t pos="Pr">in</t><t pos="Pr">inside</t><t pos="Pr">by (with)</t></tg></mg></e>
+<e><lg><l pos="Po">эста</l></lg><mg><tg xml:lang="eng"><t pos="Pr">from</t></tg></mg></e>
+<e><lg><l pos="Po">эстоньбере</l></lg><mg><tg xml:lang="eng"><t pos="Pr">since</t></tg></mg></e>
+<e><lg><l pos="Po">эзда</l></lg><mg><tg xml:lang="eng"><t pos="Pr">out of</t><t pos="Pr">from within</t></tg></mg></e>
+<e><lg><l pos="Po">эзга</l></lg><mg><tg xml:lang="eng"><t pos="Pr">on</t><t pos="Pr">along</t><t pos="Pr">up to</t><t pos="Pr">through</t><t pos="Pr">via</t><t pos="Pr">by means of</t></tg></mg></e>
+<e><lg><l pos="Po">инголи</l></lg><mg><tg xml:lang="eng"><t pos="Pr">forward</t><t pos="Pr">by</t><t pos="Pr">before</t></tg></mg></e>
+<e><lg><l pos="Po">ингольге</l></lg><mg><tg xml:lang="eng"><t pos="Pr">along before</t><t pos="Pr">(along) in front of</t></tg></mg></e>
+<e><lg><l pos="Po">инголе</l></lg><mg><tg xml:lang="eng"><t pos="Pr">before</t><t pos="Pr">in front of</t></tg></mg></e>
+<e><lg><l pos="Po">инкса</l></lg><mg><tg xml:lang="eng"><t pos="Pr">for (sb/sth)</t><t pos="Pr">for the sake of</t><t pos="Pr">because of</t><t pos="Pr">owing to</t></tg></mg></e>
+<e><lg><l pos="Po">ёнга</l></lg><mg><tg xml:lang="eng"><t pos="Pr">at </t><t pos="Pr">by</t></tg></mg></e>
+<e><lg><l pos="Po">ёнца</l></lg><mg><tg xml:lang="eng"><t pos="Pr">by</t><t pos="Pr">at</t><t pos="Pr">in the direction of</t><t pos="Pr">towards (sb/sth)</t></tg></mg></e>
+<e><lg><l pos="Po">ёнцта</l></lg><mg><tg xml:lang="eng"><t pos="Pr">from</t><t pos="Pr">from out (direction)</t></tg></mg></e>
+<e><lg><l pos="Po">ёну</l></lg><mg><tg xml:lang="eng"><t pos="Pr">towards</t><t pos="Pr">in the direction of</t></tg></mg></e>
+<e><lg><l pos="Po">ёткова</l></lg><mg><tg xml:lang="eng"><t pos="Pr">among</t><t pos="Pr">amid</t><t pos="Pr">between</t></tg></mg></e>
+<e><lg><l pos="Po">ёткс</l></lg><mg><tg xml:lang="eng"><t pos="Pr">among</t><t pos="Pr">between (direction)</t></tg></mg></e>
+<e><lg><l pos="Po">ёткса</l></lg><mg><tg xml:lang="eng"><t pos="Pr">among</t><t pos="Pr">amid</t><t pos="Pr">between</t></tg></mg></e>
+<e><lg><l pos="Po">ёткста</l></lg><mg><tg xml:lang="eng"><t pos="Pr">out from</t><t pos="Pr">out of</t><t pos="Pr">from within</t><t pos="Pr">from among</t></tg></mg></e>
+<e><lg><l pos="Po">карша</l></lg><mg><tg xml:lang="eng"><t pos="Pr">towards</t><t pos="Pr">opposite</t></tg></mg></e>
+<e><lg><l pos="Po">каршек</l></lg><mg><tg xml:lang="eng"><t pos="Pr">towards</t><t pos="Pr">against</t><t pos="Pr">opposite</t><t pos="Pr">facing</t></tg></mg></e>
+<e><lg><l pos="Po">каршес</l></lg><mg><tg xml:lang="eng"><t pos="Pr">opposite</t><t pos="Pr">facing</t><t pos="Pr">against</t><t pos="Pr">versus</t></tg></mg></e>
+<e><lg><l pos="Po">каршеса</l></lg><mg><tg xml:lang="eng"><t pos="Pr">opposite</t><t pos="Pr">facing (location)</t><t pos="Pr">against</t></tg></mg></e>
+<e><lg><l pos="Po">келес</l></lg><mg><tg xml:lang="eng"><t pos="Pr">to all width of</t><t pos="Pr">everywhere</t></tg></mg></e>
+<e><lg><l pos="Po">кoда</l></lg><mg><tg xml:lang="eng"><t pos="Pr">as</t></tg></mg></e>
+<e><lg><l pos="Po">колга</l></lg><mg><tg xml:lang="eng"><t pos="Pr">about</t><t pos="Pr">concerning</t></tg></mg></e>
+<e><lg><l pos="Po">кондя</l></lg><mg><tg xml:lang="eng"><t pos="Pr">like</t></tg></mg></e>
+<e><lg><l pos="Po">кoре</l></lg><mg><tg xml:lang="eng"><t pos="Pr">against</t><t pos="Pr">compared to</t><t pos="Pr">regarding</t><t pos="Pr">concerning</t><t pos="Pr">by</t><t pos="Pr">according to</t><t pos="Pr">in accordance</t></tg></mg></e>
+<e><lg><l pos="Po">кoряс</l></lg><mg><tg xml:lang="eng"><t pos="Pr">on</t><t pos="Pr">along</t><t pos="Pr">toward sth</t><t pos="Pr">in the direction of sth</t><t pos="Pr">according to</t><t pos="Pr">compare to</t><t pos="Pr">as compared with</t><t pos="Pr">in comparison with</t></tg></mg></e>
+<e><lg><l pos="Po">коволга</l></lg><mg><tg xml:lang="eng"><t pos="Pr">about</t><t pos="Pr">concerning</t></tg></mg></e>
+<e><lg><l pos="Po">кувалма</l></lg><mg><tg xml:lang="eng"><t pos="Pr">about</t><t pos="Pr">along</t><t pos="Pr">concerning</t><t pos="Pr">during</t><t pos="Pr">for the sake of</t><t pos="Pr">because of</t><t pos="Pr">due to</t></tg></mg></e>
+<e><lg><l pos="Po">кувалмос</l></lg><mg><tg xml:lang="eng"><t pos="Pr">along</t><t pos="Pr">along</t><t pos="Pr">concerning</t><t pos="Pr">during</t><t pos="Pr">for the sake of</t><t pos="Pr">because of</t><t pos="Pr">due to</t></tg></mg></e>
+<e><lg><l pos="Po">кувалмоста</l></lg><mg><tg xml:lang="eng"><t pos="Pr">along</t><t pos="Pr">along</t><t pos="Pr">concerning</t><t pos="Pr">during</t><t pos="Pr">for the sake of</t><t pos="Pr">because of</t><t pos="Pr">due to</t></tg></mg></e>
+<e><lg><l pos="Po">кувалмова</l></lg><mg><tg xml:lang="eng"><t pos="Pr">along</t><t pos="Pr">along</t><t pos="Pr">concerning</t><t pos="Pr">during</t><t pos="Pr">for the sake of</t><t pos="Pr">because of</t><t pos="Pr">due to</t></tg></mg></e>
+<e><lg><l pos="Po">кядьса</l></lg><mg><tg xml:lang="eng"><t pos="Pr">at</t><t pos="Pr">by</t></tg></mg></e>
+<e><lg><l pos="Po">кядьста</l></lg><mg><tg xml:lang="eng"><t pos="Pr">from (sb)</t></tg></mg></e>
+<e><lg><l pos="Po">лаца</l></lg><mg><tg xml:lang="eng"><t pos="Pr">like</t></tg></mg></e>
+<e><lg><l pos="Po">ланга</l></lg><mg><tg xml:lang="eng"><t pos="Pr">on</t><t pos="Pr">upon</t><t pos="Pr">about</t><t pos="Pr">concerning</t></tg></mg></e>
+<e><lg><l pos="Po">лангс</l></lg><mg><tg xml:lang="eng"><t pos="Pr">on</t><t pos="Pr">onto</t><t pos="Pr">upon</t></tg></mg></e>
+<e><lg><l pos="Po">лангса</l></lg><mg><tg xml:lang="eng"><t pos="Pr">on</t></tg></mg></e>
+<e><lg><l pos="Po">лаца</l></lg><mg><tg xml:lang="eng"><t pos="Pr">relating</t></tg></mg></e>
+<e><lg><l pos="Po">лувомок</l></lg><mg><tg xml:lang="eng"><t pos="Pr">regarding</t></tg></mg></e>
+<e><lg><l pos="Po">лувомста</l></lg><mg><tg xml:lang="eng"><t pos="Pr">including</t></tg></mg></e>
+<e><lg><l pos="Po">мала</l></lg><mg><tg xml:lang="eng"><t pos="Pr">relating</t></tg></mg></e>
+<e><lg><l pos="Po">мархта</l></lg><mg><tg xml:lang="eng"><t pos="Pr">with</t></tg></mg></e>
+<e><lg><l pos="Po">мельге</l></lg><mg><tg xml:lang="eng"><t pos="Pr">past (after)</t></tg></mg></e>
+<e><lg><l pos="Po">меле</l></lg><mg><tg xml:lang="eng"><t pos="Pr">after</t><t pos="Pr">past</t></tg></mg></e>
+<e><lg><l pos="Po">мзярс</l></lg><mg><tg xml:lang="eng"><t pos="Pr">until</t><t pos="Pr">till</t></tg></mg></e>
+<e><lg><l pos="Po">мяльс путозь</l></lg><mg><tg xml:lang="eng"><t pos="Pr">considering</t></tg></mg></e>
+<e><lg><l pos="Po">пачк</l></lg><mg><tg xml:lang="eng"><t pos="Pr">through</t><t pos="Pr">during</t><t pos="Pr">by (time)</t></tg></mg></e>
+<e><lg><l pos="Po">перьф</l></lg><mg><tg xml:lang="eng"><t pos="Pr">around</t><t pos="Pr">during</t></tg></mg></e>
+<e><lg><l pos="Po">потмос</l></lg><mg><tg xml:lang="eng"><t pos="Pr">into</t><t pos="Pr">inward</t></tg></mg></e>
+<e><lg><l pos="Po">потму</l></lg><mg><tg xml:lang="eng"><t pos="Pr">into</t><t pos="Pr">inside</t></tg></mg></e>
+<e><lg><l pos="Po">пряс</l></lg><mg><tg xml:lang="eng"><t pos="Pr">on the top of (direction)</t></tg></mg></e>
+<e><lg><l pos="Po">пряса</l></lg><mg><tg xml:lang="eng"><t pos="Pr">on the top of</t></tg></mg></e>
+<e><lg><l pos="Po">прява</l></lg><mg><tg xml:lang="eng"><t pos="Pr">along the top of</t></tg></mg></e>
+<e><lg><l pos="Po">пяли</l></lg><mg><tg xml:lang="eng"><t pos="Pr">towards</t></tg></mg></e>
+<e><lg><l pos="Po">пяльде</l></lg><mg><tg xml:lang="eng"><t pos="Pr">from</t></tg></mg></e>
+<e><lg><l pos="Po">пяльге</l></lg><mg><tg xml:lang="eng"><t pos="Pr">by</t><t pos="Pr">at</t><t pos="Pr">near</t><t pos="Pr">close (to)</t></tg></mg></e>
+<e><lg><l pos="Po">пяле</l></lg><mg><tg xml:lang="eng"><t pos="Pr">on</t><t pos="Pr">at</t></tg></mg></e>
+<e><lg><l pos="Po">шири</l></lg><mg><tg xml:lang="eng"><t pos="Pr">to</t><t pos="Pr">toward</t><t pos="Pr">in the direction of</t></tg></mg></e>
+<e><lg><l pos="Po">ширьге</l></lg><mg><tg xml:lang="eng"><t pos="Pr">at</t><t pos="Pr">by</t></tg></mg></e>
+<e><lg><l pos="Po">ширеса</l></lg><mg><tg xml:lang="eng"><t pos="Pr">at</t></tg></mg></e>
+<e><lg><l pos="Po">ширеста</l></lg><mg><tg xml:lang="eng"><t pos="Pr">from</t></tg></mg></e>
+<e><lg><l pos="Po">сюнеда</l></lg><mg><tg xml:lang="eng"><t pos="Pr">because (of)</t><t pos="Pr">for</t><t pos="Pr">for the sake (of)</t><t pos="Pr">on account (of)</t><t pos="Pr">by reason (of)</t></tg></mg></e>
+<e><lg><l pos="Po">сембода вастова</l></lg><mg><tg xml:lang="eng"><t pos="Pr">throughout</t></tg></mg></e>
+<e><lg><l pos="Po">сяфта</l></lg><mg><tg xml:lang="eng"><t pos="Pr">without</t></tg></mg></e>
+<e><lg><l pos="Po">товола</l></lg><mg><tg xml:lang="eng"><t pos="Pr">behind</t><t pos="Pr">beyond</t></tg></mg></e>
+<e><lg><l pos="Po">товолда</l></lg><mg><tg xml:lang="eng"><t pos="Pr">from behind</t></tg></mg></e>
+<e><lg><l pos="Po">товолга</l></lg><mg><tg xml:lang="eng"><t pos="Pr">behind (along)</t></tg></mg></e>
+<e><lg><l pos="Po">товолу</l></lg><mg><tg xml:lang="eng"><t pos="Pr">behind</t><t pos="Pr">beyond (direction)</t></tg></mg></e>
+<e><lg><l pos="Po">туркс</l></lg><mg><tg xml:lang="eng"><t pos="Pr">over</t><t pos="Pr">across</t><t pos="Pr">athwart</t></tg></mg></e>
+<e><lg><l pos="Po">трваса</l></lg><mg><tg xml:lang="eng"><t pos="Pr">at</t><t pos="Pr">by</t><t pos="Pr">ashore (direction)</t></tg></mg></e>
+<e><lg><l pos="Po">трваста</l></lg><mg><tg xml:lang="eng"><t pos="Pr">from</t></tg></mg></e>
+<e><lg><l pos="Po">трвав</l></lg><mg><tg xml:lang="eng"><t pos="Pr">at</t><t pos="Pr">by</t><t pos="Pr">along</t></tg></mg></e>
+<e><lg><l pos="Po">ушеса</l></lg><mg><tg xml:lang="eng"><t pos="Pr">outside (of)</t></tg></mg></e>
+<e><lg><l pos="Po">ушу</l></lg><mg><tg xml:lang="eng"><t pos="Pr">outside of</t><t pos="Pr">out of</t></tg></mg></e>
+<e><lg><l pos="Po">ускула</l></lg><mg><tg xml:lang="eng"><t pos="Pr">minus</t></tg></mg></e>
+<e><lg><l pos="Po">утор</l></lg><mg><tg xml:lang="eng"><t pos="Pr">in front of</t><t pos="Pr">forward of</t><t pos="Pr">at (sth)</t><t pos="Pr">by (sth)</t><t pos="Pr">near</t><t pos="Pr">back to (sb/sth)</t><t pos="Pr">in response to (sb/sth)</t><t pos="Pr">up to (sb/sth)</t></tg></mg></e>
+<e><lg><l pos="Po">уторцек</l></lg><mg><tg xml:lang="eng"><t pos="Pr">opposite (facing)</t></tg></mg></e>
+<e><lg><l pos="Po">утору</l></lg><mg><tg xml:lang="eng"><t pos="Pr">against</t><t pos="Pr">towards</t><t pos="Pr">opposite</t></tg></mg></e>
+<e><lg><l pos="Po">вакска</l></lg><mg><tg xml:lang="eng"><t pos="Pr">past</t><t pos="Pr">by</t></tg></mg></e>
+<e><lg><l pos="Po">ваксса</l></lg><mg><tg xml:lang="eng"><t pos="Pr">along (with)</t><t pos="Pr">by (near)</t><t pos="Pr">at</t><t pos="Pr">beside </t></tg></mg></e>
+<e><lg><l pos="Po">ваксста</l></lg><mg><tg xml:lang="eng"><t pos="Pr">from (near)</t></tg></mg></e>
+<e><lg><l pos="Po">вастс</l></lg><mg><tg xml:lang="eng"><t pos="Pr">instead of</t><t pos="Pr">on behalf of </t></tg></mg></e>
+<e><lg><l pos="Po">вельде</l></lg><mg><tg xml:lang="eng"><t pos="Pr">with</t><t pos="Pr">along</t><t pos="Pr">according</t><t pos="Pr">by means of</t><t pos="Pr">by the aid of</t><t pos="Pr">due</t><t pos="Pr">by virtue of</t><t pos="Pr">in virtue of</t><t pos="Pr">due to</t></tg></mg></e>
+<e><lg><l pos="Po">вельф</l></lg><mg><tg xml:lang="eng"><t pos="Pr">over</t><t pos="Pr">up to the top</t></tg></mg></e>
+<e><lg><l pos="Po">вельфке</l></lg><mg><tg xml:lang="eng"><t pos="Pr">above</t><t pos="Pr">over</t></tg></mg></e>
+<e><lg><l pos="Po">вельфке</l></lg><mg><tg xml:lang="eng"><t pos="Pr">over (above)</t></tg></mg></e>
+<e><lg><l pos="Po">вельхкска</l></lg><mg><tg xml:lang="eng"><t pos="Pr">above (along)</t></tg></mg></e>
+<e><lg><l pos="Po">вельхксс</l></lg><mg><tg xml:lang="eng"><t pos="Pr">above</t><t pos="Pr">up (direction)</t></tg></mg></e>
+<e><lg><l pos="Po">вельхксса</l></lg><mg><tg xml:lang="eng"><t pos="Pr">above (over)</t></tg></mg></e>
+<e><lg><l pos="Po">вельхксста</l></lg><mg><tg xml:lang="eng"><t pos="Pr">from above</t></tg></mg></e>
+<e><lg><l pos="Po">видес</l></lg><mg><tg xml:lang="eng"><t pos="Pr">close to (direction)</t></tg></mg></e>
+<e><lg><l pos="Po">видеса</l></lg><mg><tg xml:lang="eng"><t pos="Pr">at</t><t pos="Pr">by</t></tg></mg></e>
+<e><lg><l pos="Po">видеста</l></lg><mg><tg xml:lang="eng"><t pos="Pr">from</t></tg></mg></e>
+<e><lg><l pos="Po">видева</l></lg><mg><tg xml:lang="eng"><t pos="Pr">close to (along )</t></tg></mg></e>
+<e><lg><l pos="Po">фтала</l></lg><mg><tg xml:lang="eng"><t pos="Pr">behind</t></tg></mg></e>
+<e><lg><l pos="Po">фталда</l></lg><mg><tg xml:lang="eng"><t pos="Pr">from behind</t></tg></mg></e>
+<e><lg><l pos="Po">фталу</l></lg><mg><tg xml:lang="eng"><t pos="Pr">behind</t><t pos="Pr">beyond (direction)</t></tg></mg></e>
+<e><lg><l pos="Po">вяри</l></lg><mg><tg xml:lang="eng"><t pos="Pr">up</t></tg></mg></e>
+<e><lg><l pos="Po">эземс</l></lg><mg><tg xml:lang="eng"><t pos="Pr">instead</t></tg></mg></e>
+</r>
